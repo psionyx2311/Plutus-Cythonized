@@ -2,9 +2,6 @@
 
 A Bitcoin wallet collider that brute forces random wallet addresses. Optimized by Cythonizing functions, and compiled with PyInstaller for Linux.
 
-# Like This Project? Give It A Star
-
-[![](https://img.shields.io/github/stars/Isaacdelly/Plutus.svg)](https://github.com/Isaacdelly/Plutus)
 
 # Dependencies
 
