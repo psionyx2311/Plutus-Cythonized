@@ -1,6 +1,6 @@
 # Plutus Bitcoin Brute Forcer
 
-A Bitcoin wallet collider that brute forces random wallet addresses. Optimized by Cythonizing functions, and compiled with PyInstaller for Windows and Linux.
+A Bitcoin wallet collider that brute forces random wallet addresses. Optimized by Cythonizing functions, and compiled with PyInstaller for Linux.
 
 # Like This Project? Give It A Star
 
